@@ -26,6 +26,6 @@ The main focus of this repository is to showcase the flow of building and traini
 
 ### Important Links
 
-Medium Blog: https://medium.com/@animesh7pointer/fitting-a-straight-line-on-2d-data-in-pytorch
+Medium Blog: https://medium.com/@animesh7pointer/fitting-a-straight-line-on-2d-data-in-pytorch-78d0e3450876
 
 Kaggle Kernel: https://www.kaggle.com/n0obcoder/fitting-a-straight-line-on-2d-data-in-pytorch
